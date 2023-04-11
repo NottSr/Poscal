@@ -1,4 +1,4 @@
 # Poscal
 Pixel Art RPG 2D project
 
-![ScreenShot](/Media/ScreenShots/First.png)
+![alt Screenshot](Media/ScreenShots/First.PNG)
